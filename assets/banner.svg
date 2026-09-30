@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9dcf2"/>
+      <stop offset="0.55" stop-color="#8fb0d9"/>
+      <stop offset="1" stop-color="#3d5f8f"/>
+    </linearGradient>
+    <linearGradient id="h1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5b7fb0"/><stop offset="1" stop-color="#3a5a8a"/>
+    </linearGradient>
+    <linearGradient id="h2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2c4a78"/><stop offset="1" stop-color="#1b3358"/>
+    </linearGradient>
+    <linearGradient id="h3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#152a4a"/><stop offset="1" stop-color="#0b1a31"/>
+    </linearGradient>
+    <linearGradient id="river" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e6f0ff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#9cc2f0" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#sky)"/>
+
+  <!-- stars / sparkles -->
+  <g fill="#ffffff" opacity="0.7">
+    <circle cx="140" cy="40" r="1.8"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="310" cy="70" r="1.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="920" cy="45" r="1.8"><animate attributeName="opacity" values="1;0.3;1" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1060" cy="85" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="30" r="1.2"><animate attributeName="opacity" values="1;0.2;1" dur="4.2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- far hills -->
+  <path d="M0 210 C120 170 220 185 330 175 C460 162 540 200 660 188 C790 175 880 150 1000 168 C1090 180 1150 175 1200 170 L1200 320 L0 320 Z" fill="url(#h1)" opacity="0.85"/>
+  <!-- mid hills -->
+  <path d="M0 250 C140 215 250 238 380 222 C500 208 580 245 720 236 C860 226 950 200 1080 220 C1140 228 1180 226 1200 222 L1200 320 L0 320 Z" fill="url(#h2)"/>
+  <!-- river -->
+  <path d="M640 236 C600 250 560 258 590 270 C630 284 700 286 660 300 C620 312 520 314 470 320 L620 320 C700 310 780 300 730 286 C690 276 640 268 680 256 C700 248 690 240 640 236 Z" fill="url(#river)" opacity="0.8"/>
+  <!-- near hills -->
+  <path d="M0 290 C120 262 220 280 330 270 C420 262 470 290 560 300 L420 320 L0 320 Z" fill="url(#h3)"/>
+  <path d="M760 300 C860 272 960 280 1060 266 C1120 258 1170 262 1200 258 L1200 320 L740 320 Z" fill="url(#h3)"/>
+
+  <!-- text -->
+  <text x="600" y="112" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="38" fill="#1b3358" letter-spacing="1">Welcome to Yug's GitHub</text>
+  <text x="600" y="158" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="28" fill="#2c4a78">&lt;/&gt;<tspan fill="#1b3358">_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+</svg>
