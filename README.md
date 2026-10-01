@@ -10,9 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yug-agrawal03/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:yugagrawal2017@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>&nbsp;
-  <a href="https://yugagrawal.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/yug-agrawal03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://yugagrawal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:yugagrawal2017@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/yugagrawal031205"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <br/>
@@ -83,30 +84,27 @@ My work sits where **applied ML** meets **software engineering**. On the ML side
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td width="170"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,ts,js" height="40" /></td>
-  </tr>
-  <tr>
-    <td><b>Machine Learning</b></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda" height="40" /></td>
-  </tr>
-  <tr>
-    <td><b>Backend &amp; Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,sqlite,firebase" height="40" /></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" height="40" /></td>
-  </tr>
-  <tr>
-    <td><b>Cloud &amp; DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,git,linux" height="40" /></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,react,nextjs,nodejs,express,fastapi,tailwind,postgres,mongodb,sqlite,firebase,pytorch,tensorflow,sklearn,opencv,anaconda,aws,docker,githubactions,vercel,git,github,linux,vscode&perline=14" alt="Tech stack" />
+  </a>
+</p>
 
-<sub>Also working with: NumPy · Pandas · ONNX Runtime · Hugging Face · LangChain · Ollama · Streamlit · Jupyter</sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama 3" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+</p>
 
 ## GitHub Activity
 
